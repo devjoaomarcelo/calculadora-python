@@ -1,7 +1,7 @@
-Gerador de senhas aleatórias feito em Python.
+Calculadora simples em Python feita para praticar lógica de programação.
 
-O programa cria senhas seguras utilizando:
-- letras maiúsculas
-- letras minúsculas
-- números
-- caracteres especiais
+Funções:
+- soma
+- subtração
+- multiplicação
+- divisão
